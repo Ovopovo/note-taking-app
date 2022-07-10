@@ -1,0 +1,16 @@
+{
+  "name": "note-taking-app",
+  "version": "1.0.0",
+  "description": "My first full React app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon myapp/index.js"
+  },
+  "author": "Ovopovo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
